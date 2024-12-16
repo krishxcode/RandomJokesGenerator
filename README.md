@@ -95,9 +95,8 @@ random-jokes-generator/
 
 ### Final Output
 
-(public/JokesApp.png)
+![Random Jokes Generator Screenshot](public/JokesApp.png)
 
-> Replace `image-path` with the actual path to the final screenshot.
 
 ---
 
