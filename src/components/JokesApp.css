@@ -1,0 +1,58 @@
+/* JokesApp.css */
+
+.jokes-container {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color:whitesmoke;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    color:rgba(19, 20, 20, 0.607);
+    font-weight: 600;
+    font-size: 16px;
+  }
+  
+  .jokes-button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color:red;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .jokes-button:hover {
+    background-color:rgb(249, 67, 67);
+
+  }
+  
+  .single-joke {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: pink;
+    border: 1px solid pink;
+    border-radius: 8px;
+  }
+  
+  .joke-card {
+    margin: 10px 0;
+    padding: 15px;
+    background-color:pink;
+    border: 1px solid #d6d8db;
+    border-radius: 6px;
+    text-align: left;
+  }
+  
